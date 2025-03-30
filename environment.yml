@@ -1,0 +1,9 @@
+name: mlflow-pipeline
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - pandas
+  - mlflow
+  - pip
