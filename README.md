@@ -14,7 +14,8 @@ This project demonstrates a **Machine Learning pipeline** with **MLflow** for tr
 ## 🚀 Getting Started
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/mlflow-pipeline.git
+
+git clone https://github.com/Pranav-Code-007/mlflow-pipeline.git
 cd mlflow-pipeline
 ```
 
